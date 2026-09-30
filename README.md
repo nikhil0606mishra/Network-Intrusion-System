@@ -187,12 +187,3 @@ Possible future improvements include:
 - User authentication
 - Deployment to a cloud platform
 
-## 👨‍💻 Author
-
-**Priyanshu Kumar**
-
-GitHub: [@raopriyanshu90](https://github.com/raopriyanshu90)
-
----
-
-⭐ If you find this project useful, consider giving the repository a star.
